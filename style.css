@@ -1,0 +1,46 @@
+body {
+    font-family: 'Raleway', sans-serif;
+    background-color: rgb(192, 182, 182);
+}
+
+header{
+    padding: 40px;
+    background-color: rgb(126, 18, 18);
+    color: whitesmoke;
+    text-align: center;
+}
+
+.calendar{
+    padding: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10%;
+    margin-right: 10%;
+    border-style: solid;
+    border-color: rgb(126, 18, 18);
+    
+}
+
+.container {
+
+    margin: 2px !important;
+
+}
+
+.time {
+    padding: 50px 10px 10px 10px;
+    text-align: right;
+}
+
+.saveButton {
+    padding: 50px 10px 10px 10px;
+    text-align: center;
+}
+
+
+.row {
+    margin: 5px;
+ 
+}
+
+
